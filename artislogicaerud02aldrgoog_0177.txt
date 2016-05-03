@@ -1,0 +1,42 @@
+90 Anne nomen
+
+conclusio vel expositae endem, vel enm inferens,
+vel praemissae contradictoria, utin exemplo.
+
+cEn Nullum A est B
+Ar Omne C est B: Ergo
+E NullumC est A.
+
+ad,
+eE NullumB est A
+
+A Omne C est B: Ergo
+rEnt Nullum C est A.
+
+dIs AliquodB est A
+Am Omne B est C: Ergo
+In AliquodC est A.
+
+. ad
+
+dA Omne B est C
+rI AliquodA est B: Ergo
+I AliquodA est C.
+
+bAr Omne A est B
+Olc Aliquod C nonest B: Ergo
+O Aliquod Onon est A.
+
+ad
+
+bAr Omne A est B
+
+bA Omne C est A: Ergo
+rA Omne C est Β.Β
+
+‘Arehbishop Whntely gives an estensive reduetion of
+Baroko and Boknrdo to Ferio and Darii, by eonverting the
+major promise by contraposition. Logic, b. ii. e. 8. ᾖ. b.
+
+ 
+

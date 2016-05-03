@@ -1,0 +1,36 @@
+RUDIMENTA.
+
+bOle Aliquod Bnon estA
+Ar Omne B est C: Ergo
+dO Aliquod Cnon est A.
+
+dAl Omne B est A
+Ιε AliquodB est C: Ergo
+I AliquodC est A.
+
+sEr Nullum ΒΙ est A
+Is AliquodB est C: Ergo
+02³ Aliquod Cnon est A.
+
+IV.
+
+drAm Omne A est B
+An Omne B est C: Ergo
+tIp AliquodC est A.
+
+oAm Omne A est B
+En NullumB est C: Ergo
+Es NullumC est A.
+
+dlm AliquodA est B
+Ar Omne B εεῖ C: Ergo
+Ιε AliquodC est A.
+
+sEs NullumA est B
+Ap Omne B est C: Ergo
+O Aliquod Cnon est A.
+
+02
+
+ 
+

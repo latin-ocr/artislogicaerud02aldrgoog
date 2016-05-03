@@ -1,0 +1,46 @@
+nunrnunrs. '
+
+v. g. Si posite vel C vel D
+Subsumatur
+Sed C ergo nou D
+D nouC
+
+non C ergo D
+non D C
+
+Pro exposite Disjunctiva
+dic conditionaliter
+
+every disjunctive proposition. We moy lappas to Ιηιοω thet
+tvvo sltematives cannot be true together, so that the affirmetlon
+ol the second necessitates the denisi or' the first, end the
+
+affirmation ol the first the denisi oi the second; but this, es
+Boethius observes, is s morial, not e formal consequence,
+whether it be stuted in the hypothetieel or disjunctive form.
+
+It must be allowed thet the exemplos sometimes edduced on
+this side oi the question here not been very heppily chosen.
+It sounds oddly enough to stete s known truth ss n possible
+islsehood, ns in the instance, “Bellum Trojanum cecicit oei
+Homerus vel Virpilirul’ But other sud more netursl specimens
+have been given; e. g. '‘Ant olim Trojo snit, ont historia de
+hello Trojano est mera sabulos The csse is still olesrer when
+both members oi the disjunctive ere negative, ss in the
+example given by Boethius, “Si enim quis diest, sut non
+est elbum out non est nigrum, sive elbum non esse os
+sumpserit, non neeesse erit esse vel non esse nigrum: sive
+nigrum non esse assumpserit, ut sit vel non sit elbum, nullum
+locist necessitatem.” On this supposition only two oi the
+uhove syllogiems ere solid, which may be reduced to hypothe
+ticsls ss l'ollovs:
+
+Constructive. Destruetive.
+Illisnotlnoun. Il'AisnotB.CisD.
+Buttis not B. ButC is unt D.
+
+'.·.C is D. .·.A is B.
+For s further account, see Wellis, Log. Thes. 2.
+
+ 
+

@@ -1,0 +1,35 @@
+82 nume nooicn
+
+sEs Nullum A est B
+tl AliquodC est B: Ergo
+nO Aliquod Onon est A.
+
+.bAr Omne A est B
+Olc Aliquod C nonest B: Ergo
+O Aliquod Cnon est A
+
+Ε Nullum A est B
+A Omne C est B: Ergo
+O Aliquod Onon est A.
+
+A Omne A est B
+Ε NullumC est B: Ergo
+O Aliquod Cnon est A.
+
+III.
+
+dAr Omne B est ·A
+Ap Omne B est C: Ergo
+tI AliquodC est A.
+
+, sni uuiumu est A
+
+Ap Omne B est C: Ergo
+ton Aliquod C nonest A.
+
+dls AliquodB est A
+Am Omne B est C: Ergo
+Is AliquodC est A.
+
+ 
+

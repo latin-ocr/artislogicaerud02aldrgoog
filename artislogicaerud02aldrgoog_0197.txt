@@ -1,0 +1,50 @@
+110 nuris coorcn
+
+atatam appellavit; Favorinus eleganter seoriam.
+Porro, nec formosa omnis est communis, nec de· '
+mansei. formis, poena. Denique Dilcmma facile retorqueri
+potest. Puta, Si fumosam ducere, non habebo
+penam ai deformem, non habebo communem.
+Dilemma nihil aliud est, quam Inductio Nega·
+ticc¹¹5 iu qua syllogismi Major Conditionalis est
+
+11. 28. la.
+
+· This remark is taken irom Wallis. and is only applicable
+to the Dilemma in his sense oi the term. 'l'he negative
+induction appears categorioally in this torm:
+
+There are no instaures ol' C being D, nor of E being F.
+But these are all the possible instances oi Δ being B.
+There is no instance oft being Β.
+
+The Dilemma oi Aldrich cannot, as it stands, be reduced to
+
+this form. The categorical conclusion, c. g. Nulla acor cat
+ducenda, does not follow from the promises ol' the Dilemma
+of Bics; but requires the additional assumption. that neither
+
+matrimonial nuisance is. under any circumstance, to bc
+
+endured. This brings it to Wallis’s form, thus:
+
+st ducenda cat uror, catsormoaa ducenda eet, cut dcj'ormie:
+Atqui non cst ducendosonncac, nepae dfformir:
+nrqo, Ucor non eat ducenda. (Burgersdycln Imt Lop. ii. 1³.)
+
+The complex Dilernma. cs given above, may be reduced,
+il required, to a series ol hypothetical syllogisms, and so to
+categoricals: thus:
+
+Constructive. Destructive.
+IlEisF‚GisH; leisF,GisH; ⁴
+IshisnotB‚EisF; Il'GisD‚Gisnotll;
+
+Il A is not Β, G is H. lle is D, E is not F.
+ll'CisnotD‚AisnotB; IiAisB‚CisD;'
+Ii C is not D, G is H. IiA is B, Β is not ll.
+
+'Phe reduction ol the simpleuDilemma is obvious enough.
+
+ 
+

@@ -1,0 +1,46 @@
+104 anns nomon
+
+Conditionalis cujusque sententia est, quod, data
+Conditione, datur Asserti0; quod bifariam explicari
+
+coniounded with the inquiry, whether the hypothetioal pro-
+position is fonnally the same with the categorieel. The latter
+is answered by Kant in 'the negative, but that decision does
+not affeot the present question. The seduction ol hypothetiesl
+syllogisms must be govemed by the same mles es that oi
+categorioals ; end in the letter ease, itis allowable to substitute
+for a given proposition another which, though not identitatis
+implied by it. For instance, a pmtieular proposition may be·
+employed in the plaee of an universal. So in hypothetioals,
+if the new propositione oontain the same terme, end are
+immediately deducible from the original ones, the seduction
+is legitimam. This will generally be the ease when the
+hypothetioal proposition has but three terms; both clauses
+having the same subject or the same predicate. The following
+instantes may thus be reduced ·.-
+Ι. 11 All A is Β, All A is Ο, All Β is G,
+ButAllAieB; to AllAisB;
+All A is 0. AllA is Ο.
+
+BntAllAisB; AllCisA;
+·.A.ll 0 is B. .·.AllC is Β.
+These syllogisms indeed, vvere admitted hythe Ramists,
+the great advocates oi hypothetioals, to be eategorieel. But
+where the hypothetioel has four terms, as, ‘⁴ Il A is B, C is
+D,'' this mode of seduction is not praetieable; yet even in
+this ease e categorieal syllogism may be oonshueted, whose
+propositione, though expressed in different terme, are implied
+in those of the original syllogism. Thus:
+Constmotive. Destruotive.
+Every ense oi A being B, is a Every ease oi A being B, is a
+ease oi C being D. oasa olC being D.
+This is aease oi A being B. This is notaoeseoiC being D.
+This is a ease oi C being D. .·.Thisisnotaeaseol A beingB.
+
+ΙΙ. Ι1 All A is B, All O is D] pau Ais B,
+to
+
+The above directions are all that ean be given on the ordinary
+
+ 
+

@@ -1,0 +1,38 @@
+nunfflnnnn.
+
+eE NullumB est A
+IA Omne C est B: Ergo
+rEnt Nullum C est A.
+
+dA Omne B est A
+rl AliquodC est B: Ergo
+1 AliquodC est A.
+
+sE NullumB est A
+rI AliquodC est B: Ergo
+Ο Aliquod Cnon est A.
+
+A Omne B est A
+A Omne¹ C est B: Ergo
+l AliquodC est A.
+
+E NullumB est A
+
+A Omne C est B: Ergo .
+
+O Aliquod C non est A
+
+11.
+
+cEs Nullum A est B
+A Omne C est B: Ergo
+rE NullumC est A.
+
+eAm Omne A est B
+En Nullum C est B: Ergo
+trE'n Nullum C est A.
+
+O
+
+ 
+

@@ -1,0 +1,47 @@
+arrawnrx. aaa
+
+In the ἀπαγωγὴ εἰς τὸ ἀδύνατον, the proci is of the same
+character. It has indeed no special reference to Dialectic,
+and is frequently employed in demonstration‘; Aristotle’s
+own example being taken from Geometry. But still its
+connexion with the original question is not formal, bnt
+material; lor we assume,
+
+All A is B;
+All (l is A;
+Therelore, All 0 is B.
+
+And this conclusion, from material grounds, we lmow to
+be false. We also hnow (materially again) that the minor
+premise is true; and all thetis logical in the process is
+the consequent decision that the major must be false,
+
+and hence, by the principle of contradiction, that the κ
+
+original question is true.
+
+But one step only is wanting, to convert these material
+consequentes into formal ones. We have in the συλλο-
+γισμὸς ἐξ ὁμολογίας clearly the germ of the conditional
+Syllogisms of Theophrastus. It needs but to commence
+with the original hypothesis, not as a mere dialectis
+convention, but as a proposition having its own inde-
+pendent velue, and we have at cuce a distinct form of
+argumentation, to which the Aristotelian specimen is
+related merely as a prosyllogism supporting one of the
+promises. This done, no great sagacity is required to
+see that the prosyllogism may in this, as in any other
+ease, bc omitted or not, according to the material
+character of the premise which it supports.
+
+To the ἀπαγωγὴ εἰς τὸ ἀδύνατον may in like manner bo ’
+traced the origin of the Disjnnctive Syllogism. The
+most natural proceeding in this case is to state the two
+
+‘For the principle oi contradiction may be assumed as seli-evident,
+without any conventior) between disputante. And in this lies the principal
+difference between tha deductio ad impossibile and the syllogism os agree·
+ment.. See Anal. Pr. tat. 3.
+
+ 
+
